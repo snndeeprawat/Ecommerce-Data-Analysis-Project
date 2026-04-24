@@ -36,7 +36,7 @@ Sales trends fluctuate monthly, highlighting seasonal patterns
 
 
 ## 📂 Project Structure
-ecommerce-project/
+## ecommerce-project/
 │── data/
 │   ├── raw_data.csv
 │   ├── cleaned_data.csv
@@ -49,8 +49,6 @@ ecommerce-project/
 │
 │── sql/
 │   ├── analysis.sql
-│
-│── README.md
 
 
 
