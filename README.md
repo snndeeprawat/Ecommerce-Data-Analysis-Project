@@ -15,6 +15,7 @@ Sales over time
 Data preprocessing was performed using Python (Pandas) before visualization.
 
 ⚙️ Tools & Technologies
+
 Power BI – Dashboard creation & data visualization
 Python – Data cleaning and preprocessing
 SQL – Data analysis queries
@@ -31,6 +32,9 @@ Digital payments are widely preferred over cash
 A small group of customers contributes significantly to revenue
 Certain product categories dominate overall sales
 Sales trends fluctuate monthly, highlighting seasonal patterns
+
+
+
 📂 Project Structure
 ecommerce-project/
 │── data/
@@ -47,16 +51,23 @@ ecommerce-project/
 │   ├── analysis.sql
 │
 │── README.md
+
+
+
 🚀 How to Use
 Download the .pbix file
 Open in Power BI Desktop
 Explore dashboard using filters and visuals
-📷 Dashboard Preview
 
-(Add your ecommerce_dashboard.png here)
+
+
+📷 Dashboard Preview
+powerbi/ecommerce_dashboard.png
+
+
+
 
 🙌 Conclusion
-
 This project demonstrates my ability to:
 
 Clean and transform raw data
