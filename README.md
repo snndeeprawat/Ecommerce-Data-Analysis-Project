@@ -1,9 +1,9 @@
-📊 E-Commerce Sales Dashboard (Power BI Project)
+## 📊 E-Commerce Sales Dashboard (Power BI Project)
 🔍 Overview
 
 This project is an interactive E-Commerce Sales Dashboard built using Power BI to analyze business performance and generate actionable insights. It helps in understanding customer behavior, sales trends, and revenue distribution across different categories.
 
-📁 Dataset
+## 📁 Dataset
 
 The dataset includes raw and cleaned data related to:
 
@@ -14,7 +14,7 @@ Sales over time
 
 Data preprocessing was performed using Python (Pandas) before visualization.
 
-⚙️ Tools & Technologies
+## ⚙️ Tools & Technologies
 
 Power BI – Dashboard creation & data visualization
 Python – Data cleaning and preprocessing
@@ -35,7 +35,7 @@ Sales trends fluctuate monthly, highlighting seasonal patterns
 
 
 
-📂 Project Structure
+## 📂 Project Structure
 ecommerce-project/
 │── data/
 │   ├── raw_data.csv
@@ -54,20 +54,21 @@ ecommerce-project/
 
 
 
-🚀 How to Use
+## 🚀 How to Use
 Download the .pbix file
 Open in Power BI Desktop
 Explore dashboard using filters and visuals
 
 
 
-📷 Dashboard Preview
-powerbi/ecommerce_dashboard.png
+## 📷 Dashboard Preview
+
+![Dashboard](powerbi/ecommerce_dashboard.png)
 
 
 
 
-🙌 Conclusion
+## 🙌 Conclusion
 This project demonstrates my ability to:
 
 Clean and transform raw data
