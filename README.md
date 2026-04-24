@@ -62,8 +62,7 @@ Explore dashboard using filters and visuals
 
 ## 📷 Dashboard Preview
 
-<img src="ecommerce_dashboard.png" width="800"/>
-
+![Dashboard](ecommerce-project/powerbi/ecommerce_dashboard.png)
 
 
 
