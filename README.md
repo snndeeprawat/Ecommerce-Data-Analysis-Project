@@ -36,22 +36,21 @@ Sales trends fluctuate monthly, highlighting seasonal patterns
 
 
 ## 📂 Project Structure
+```
 ecommerce-project/
 │── data/
-│ ├── raw_data.csv
-│ ├── cleaned_data.csv
+│   ├── raw_data.csv
+│   ├── cleaned_data.csv
 │
 │── powerbi/
-│ ├── ecommerce_dashboard.pbix
-│ ├── ecommerce_dashboard.png
+│   ├── ecommerce_dashboard.pbix
 │
 │── python/
-│ ├── cleaning.ipynb
+│   ├── cleaning.ipynb
 │
 │── sql/
-│ ├── analysis.sql
-│
-│── README.md
+│   ├── analysis.sql
+```
 
 
 ## 🚀 How to Use
@@ -63,7 +62,7 @@ Explore dashboard using filters and visuals
 
 ## 📷 Dashboard Preview
 
-<img src="powerbi/ecommerce_dashboard.png" width="800"/>
+<img src="ecommerce_dashboard.png" width="800"/>
 
 
 
