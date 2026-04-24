@@ -16,18 +16,18 @@ Data preprocessing was performed using Python (Pandas) before visualization.
 
 ## ⚙️ Tools & Technologies
 
-Power BI – Dashboard creation & data visualization
-Python – Data cleaning and preprocessing
-SQL – Data analysis queries
-Excel/CSV – Data storage
-📌 Key Features
-📈 Total Revenue, Orders & Average Order Value overview
-🏆 Top Customers Analysis
-💳 Payment Method Distribution (Cash, Card, Wallet)
-📊 Revenue by Category visualization
-📅 Monthly Sales Trend Analysis
-🎛️ Interactive filters for better insights
-💡 Insights Generated
+Power BI – Dashboard creation & data visualization <br>
+Python – Data cleaning and preprocessing <br>
+SQL – Data analysis queries <br>
+Excel/CSV – Data storage <br>
+📌 Key Features <br>
+📈 Total Revenue, Orders & Average Order Value overview <br>
+🏆 Top Customers Analysis <br>
+💳 Payment Method Distribution (Cash, Card, Wallet) <br>
+📊 Revenue by Category visualization <br>
+📅 Monthly Sales Trend Analysis <br>
+🎛️ Interactive filters for better insights <br>
+💡 Insights Generated <br>
 Digital payments are widely preferred over cash
 A small group of customers contributes significantly to revenue
 Certain product categories dominate overall sales
@@ -36,20 +36,22 @@ Sales trends fluctuate monthly, highlighting seasonal patterns
 
 
 ## 📂 Project Structure
-## ecommerce-project/
+ecommerce-project/
 │── data/
-│   ├── raw_data.csv
-│   ├── cleaned_data.csv
+│ ├── raw_data.csv
+│ ├── cleaned_data.csv
 │
 │── powerbi/
-│   ├── ecommerce_dashboard.pbix
+│ ├── ecommerce_dashboard.pbix
+│ ├── ecommerce_dashboard.png
 │
 │── python/
-│   ├── cleaning.ipynb
+│ ├── cleaning.ipynb
 │
 │── sql/
-│   ├── analysis.sql
-
+│ ├── analysis.sql
+│
+│── README.md
 
 
 ## 🚀 How to Use
@@ -61,7 +63,7 @@ Explore dashboard using filters and visuals
 
 ## 📷 Dashboard Preview
 
-![Dashboard](powerbi/ecommerce_dashboard.png)
+<img src="powerbi/ecommerce_dashboard.png" width="800"/>
 
 
 
