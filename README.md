@@ -11,7 +11,6 @@ Customer transactions
 Product categories
 Payment methods
 Sales over time
-
 Data preprocessing was performed using Python (Pandas) before visualization.
 
 ## ⚙️ Tools & Technologies
@@ -69,6 +68,6 @@ Explore dashboard using filters and visuals
 ## 🙌 Conclusion
 This project demonstrates my ability to:
 
-Clean and transform raw data
-Build interactive dashboards
-Extract meaningful business insights
+Clean and transform raw data <br>
+Build interactive dashboards <br>
+Extract meaningful business insights <br>
